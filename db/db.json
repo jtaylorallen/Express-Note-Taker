@@ -2,5 +2,20 @@
     {
         "title":"Test Title",
         "text":"Test text"
-    }
+    },
+
+    {
+        "title":"Birthday Gift",
+        "text":"Hadley - Crafts, paints"
+    },
+
+    {
+        "title":"Bank",
+        "text":"Make Cash Deposit"
+    },
+
+    {
+        "title":"Doc. App",
+        "text":"Blood test needed before appointment"
+    } 
 ]
